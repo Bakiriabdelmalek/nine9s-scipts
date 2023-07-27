@@ -7,3 +7,6 @@ add it to
 nine19ts_init(){
 
 }
+or 
+excute the source script.sh
+than nine19ts_init

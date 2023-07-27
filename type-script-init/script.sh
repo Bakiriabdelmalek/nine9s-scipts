@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-
+nine19ts_init(){
 # Run your JavaScript file
-node ~/mine/fstesting.js
+node ~/mine/type-script-init/fstesting.js
 
 #update nodejs
 
@@ -33,5 +33,6 @@ npm install @types/express@^4.17.17 \
 npm install typescript@latest --save-dev
 npm install -g ts-node
 
-
+echo "U can start the server by excuting : "npm run start" "
+}
 
