@@ -1,0 +1,9 @@
+<<U can excute the script.sh content into this function , and
+add it to
+ nano ~/.bashrc
+>>
+
+
+nine19ts_init(){
+
+}

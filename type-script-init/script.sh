@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-nine19ts_init(){
+
 # Run your JavaScript file
 node ~/mine/fstesting.js
 
@@ -33,5 +33,5 @@ npm install @types/express@^4.17.17 \
 npm install typescript@latest --save-dev
 npm install -g ts-node
 
-}
+
 
