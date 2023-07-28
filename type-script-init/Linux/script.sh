@@ -3,7 +3,7 @@
 
 nine19ts_init(){
 # Run your JavaScript file
-node ~/mine/type-script-init/fstesting.js
+node your-path/fstesting.js
 
 #update nodejs
 
